@@ -1,10 +1,9 @@
 #
- <a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=God+bless+you!+🙌🏻" alt="Typing SVG" width=900 /></a>
-<br>
+<div align="right">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=God+bless+you!+🙌🏻" alt="Typing SVG" width=900 /></a>
+</div>
   <img align="right" alt="coding" width=350 src="git.gif">
-
- <a href="https://github.com/rfonts">
- <br>
+  
  <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfonts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  </div>
