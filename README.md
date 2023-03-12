@@ -1,7 +1,7 @@
 #
  <a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=God+bless+you!+🙌🏻" alt="Typing SVG" width=900 /></a>
 <br>
-  <img align="right" alt="coding" width=400 src="git.gif">
+  <img align="right" alt="coding" width=350 src="git.gif">
 
  <a href="https://github.com/rfonts">
  <br>
