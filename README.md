@@ -5,7 +5,9 @@
 
  <a href="https://github.com/rfonts">
  <br>
+ <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfonts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ </div>
       <h2 align="center"><strong>Tecnologias</h2>
  <div align="center">
    <img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,6 +15,7 @@
    <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
    <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
  </div>
+ <br>
       <h2 align="center">Redes Sociais</h2>
  <p align="center">
  <a href="https://www.linkedin.com/in/rodrigo-fontes-b38350191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="44" width="44" /></a>
