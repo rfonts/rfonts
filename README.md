@@ -1,9 +1,10 @@
 #
- <a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=God+bless+you+!+🙌🏻" alt="Typing SVG" width=900 /></a>
-
+ <a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=God+bless+you!+🙌🏻" alt="Typing SVG" width=900 /></a>
+<br>
   <img align="right" alt="coding" width=400 src="git.gif">
 
  <a href="https://github.com/rfonts">
+ <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfonts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <h2 align="center"><strong>Tecnologias</h2>
    <div align="center">
@@ -12,7 +13,11 @@
    <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
    <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
    </div>
-
+   <h2></h2>
+   <br>
+   
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=0&color=FFFFFF&width=435&lines=.+.+.+.+.+.+.+.+.+." alt="Typing SVG" width="600" /></a>
+   <br>
  <h2 align="center">Redes Sociais</h2>
  <p align="center">
  <a href="https://www.linkedin.com/in/rodrigo-fontes-b38350191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="44" width="44" /></a>
@@ -21,7 +26,7 @@
 
  <h2 align="left"><strong></h2>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I+will+get+my+coffee+.+.+." alt="Typing SVG" width="500" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I+will+get+my+coffee+.+.+." alt="Typing SVG" width="600" /></a>
   
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfonts&layout=compact&langs_count=6&theme=tokyonight"/>
 
