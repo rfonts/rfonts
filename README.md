@@ -21,7 +21,7 @@
 
  <h2 align="left"><strong></h2>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I+will+get+my+coffee+.+.+." alt="Typing SVG" width="700" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I+will+get+my+coffee+.+.+." alt="Typing SVG" width="500" /></a>
   
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfonts&layout=compact&langs_count=6&theme=tokyonight"/>
 
