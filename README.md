@@ -1,12 +1,13 @@
 #
 <div align="right">
- <a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=God+bless+you!+🙌🏻" alt="Typing SVG" width=900 /></a>
+ <a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines= + + + +God+bless+you!+🙌🏻" alt="Typing SVG" width=900 /></a>
 </div>
   <img align="right" alt="coding" width=350 src="git.gif">
   
  <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfonts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  </div>
+ <br>
       <h2 align="center"><strong>Tecnologias</h2>
  <div align="center">
    <img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
