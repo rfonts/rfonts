@@ -4,6 +4,7 @@
    <a href="https://github.com/rfonts">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfonts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfonts&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github.com/rfonts/rfonts/blob/2dc7a4a028adda52842fd98626397be5554e801b/matrix.gif"/>
 
 </div>
 <div style="display: inline_block"><br>
