@@ -14,7 +14,7 @@
    <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
    <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
    <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-   <img align="center" alt="ReactNative" height="55" width="55" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>
+   <img align="center" alt="ReactNative" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>
  </div>
  <br>
       <h2 align="center">Redes Sociais</h2>
