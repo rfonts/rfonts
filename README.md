@@ -2,7 +2,7 @@
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=.+.+.+God+bless+you!+🙌🏻" alt="Typing SVG" width=800 /></a>
 
-  <img align="right" alt="coding" width=350 src="git.gif">
+  <img align="right" alt="coding" width=350 src="loading.gif">
   
  <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfonts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
