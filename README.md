@@ -1,7 +1,4 @@
 #
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=.+.+.+God+bless+you!+🙌🏻" alt="Typing SVG" width=800 /></a>
-
   <img align="right" alt="coding" width=350 src="loading.gif">
   
  <div align="center">
@@ -12,9 +9,6 @@
  <h2 align="left"><strong></h2>
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I+never+stop+learning+.+.+." alt="Typing SVG" width="650" /></a>
-  
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfonts&layout=compact&langs_count=6&theme=tokyonight"/>
-
    
   ![Snake animation](https://github.com/rfonts/rfonts/blob/output/github-contribution-grid-snake.svg)
 
