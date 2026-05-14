@@ -1,5 +1,5 @@
 #
-<img align="right" alt="coding" width=350 src="loading.gif">
+<img align="left" alt="coding" width=350 src="loading.gif">
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfonts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
